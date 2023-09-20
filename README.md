@@ -1,6 +1,6 @@
 # Portfolio-Guillaume
 
-📚 ## Sommaire
+## 📚 Sommaire
 * C
 * C++
 * Docker
