@@ -1,10 +1,10 @@
 # Portfolio-Guillaume
 
 ## 📚 Sommaire
-* C
-* C++
-* Docker
-* Web
+* [C](#C)
+* [C++](#C++)
+* [Docker](#Docker)
+* [Web](#Web)
 
 # C
 | Projet | Description |
@@ -29,5 +29,8 @@
 [ft_libasm](https://github.com/GitCGuillaume/ft_libasm) : Exercices d'introduction à l'assembleur Intel 64bits.
 
 # Docker
+[Inception](https://github.com/GitCGuillaume/Inception) : Projet qui consiste à lancer différents services (Principalement pour un site WordPress) depuis des containers Docker.
 
 # Web
+[ft_transcendence](https://github.com/GitCGuillaume/ft_transcendence) : Ce projet consiste à concevoir un site Pong en multijoueur, avec chat et double authentification sous QR Code,  
+il utilise React + TypeScript et NestJs.
