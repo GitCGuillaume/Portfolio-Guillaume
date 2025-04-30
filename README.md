@@ -6,6 +6,7 @@
 * [C++](#C++)
 * [Docker](#Docker)
 * [Web](#Web)
+* [Rust](#Rust)
 
 # Branche Kernel
 | Projet | Description |
@@ -31,6 +32,13 @@
 |[Piscine CPP](https://github.com/GitCGuillaume/Exercices-CPP)| Ce répertoire concentre tous mes exercices d'introduction au langage C++. |
 |[ft_containers](https://github.com/GitCGuillaume/ft_containers)| Projet qui consiste à programmer des "containers" en C++, version 98, ces containers sont utilisés par la bibliothèque standard C++. |
 |[Webserv](https://github.com/GitCGuillaume/webserv)|Projet qui consiste à développer un serveur HTTP en C++.|
+|[Cybersécurité - Inquisitor](https://github.com/GitCGuillaume/Cybersecurity/tree/main/inquisitor)|Inquisitor est un programme Man-in-the-middle attack, qui consiste à empoisonner le protocole de résolution d’adresse des cibles en se faisant passer pour la gateway. |
+
+# Rust
+| Projet | Description |
+| :---------------- | :------: |
+|[Cybersécurité - Spider](https://github.com/GitCGuillaume/Cybersecurity/tree/main/Arachnida_00/spider)| Le programme Spider navigue depuis une URL et télécharge récursivement toutes les images trouvées. |
+|[Cybersécurité - Scorpion](https://github.com/GitCGuillaume/Cybersecurity/tree/main/Arachnida_00/scorpion)| Ce projet consiste à afficher les métadonnées d'un fichier et les données EXIF si disponibles. |
 
 # Docker
 [Inception](https://github.com/GitCGuillaume/Inception) : Projet qui consiste à lancer différents services (Principalement pour un site WordPress) depuis des containers Docker.
