@@ -39,6 +39,8 @@
 | :---------------- | :------: |
 |[Cybersécurité - Spider](https://github.com/GitCGuillaume/Cybersecurity/tree/main/Arachnida_00/spider)| Le programme Spider navigue depuis une URL et télécharge récursivement toutes les images trouvées. |
 |[Cybersécurité - Scorpion](https://github.com/GitCGuillaume/Cybersecurity/tree/main/Arachnida_00/scorpion)| Ce projet consiste à afficher les métadonnées d'un fichier et les données EXIF si disponibles. |
+|[Cybersécurité - ft_otp](https://github.com/GitCGuillaume/Cybersecurity/tree/main/ft_otp)| Projet qui consiste à générer un mot de passe à usage unique |
+|[Cybersécurité - Stockholm](https://github.com/GitCGuillaume/Cybersecurity/tree/main/stockholm)| Projet éducatif malware pour infecter et désinfecter un dossier sous Linux |
 
 # Docker
 [Inception](https://github.com/GitCGuillaume/Inception) : Projet qui consiste à lancer différents services (Principalement pour un site WordPress) depuis des containers Docker.
