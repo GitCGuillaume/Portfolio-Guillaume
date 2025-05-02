@@ -12,7 +12,7 @@
 | Projet | Description |
 | :---------------- | :------: |
 [ft_linux](https://github.com/GitCGuillaume/ft_linux) | Le but de ce projet est de construire une distribution Linux avec son lot de programmes, basé sur les livres Linux From Scratch et Beyond Linux From Scratch. |
-[Little Penguin](https://github.com/GitCGuillaume/ft_linux) | Ce sujet est un challenge comportant une série d'exercice pour s'ignitier à la programmation kernel Linux |
+[Little Penguin](https://github.com/GitCGuillaume/Little_Penguin/tree/main) | Ce sujet est un challenge comportant une série d'exercice pour s'ignitier à la programmation kernel Linux |
 
 # C
 | Projet | Description |
