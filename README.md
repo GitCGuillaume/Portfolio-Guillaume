@@ -11,12 +11,13 @@
 # Branche Kernel
 | Projet | Description |
 | :---------------- | :------: |
-[ft_linux](https://github.com/GitCGuillaume/ft_linux) | Le but de ce projet est de construire une distribution Linux avec son lot de programmes, basé sur les livres Linux From Scratch et Beyond Linux From Scratch.
+[ft_linux](https://github.com/GitCGuillaume/ft_linux) | Le but de ce projet est de construire une distribution Linux avec son lot de programmes, basé sur les livres Linux From Scratch et Beyond Linux From Scratch. |
+[Little Penguin](https://github.com/GitCGuillaume/ft_linux) | Ce sujet est un challenge comportant une série d'exercice pour s'ignitier à la programmation kernel Linux |
 
 # C
 | Projet | Description |
 | :---------------- | :------: |
-| [ft_ping](https://github.com/GitCGuillaume/ft_ping) | Ping est une commande qui permet de vérifier l'accessibilité vers une machine dans un réseau, pour ce faire, elle utilise le protocole de communication ICMP.
+| [ft_ping](https://github.com/GitCGuillaume/ft_ping) | Ping est une commande qui permet de vérifier l'accessibilité vers une machine dans un réseau, pour ce faire, elle utilise le protocole de communication ICMP. |
 | [ft_printf](https://github.com/GitCGuillaume/ft_printf) | Ce projet permet de réécrire la fonction printf avec différents drapeaux de formatage, incluant largeur et précision. |
 | [get_next_line](https://github.com/GitCGuillaume/get_next_line) | Projet qui consiste à lire ligne par ligne des fichiers, pour par exemple en afficher le contenu.|
 | [Minitalk](https://github.com/GitCGuillaume/minitalk)| Projet qui introduit aux signaux unix, ce projet consiste à envoyer des chaines de caractères à un serveur, il doit par la suite afficher les caractères et renvoyer une réponse aux clients. |
