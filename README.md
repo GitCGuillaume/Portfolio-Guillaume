@@ -7,7 +7,7 @@ Je suis Alumni à l'école 42 et également propriétaire d'un diplôme de Licen
 * [Branche Kernel](#Branche-kernel)
 * [C](#C)
 * [C++](#C++)
-* [Docker](#Docker)
+* [Devops](#Devops)
 * [Web](#Web)
 * [Rust](#Rust)
 
@@ -46,8 +46,11 @@ Je suis Alumni à l'école 42 et également propriétaire d'un diplôme de Licen
 |[Cybersécurité - ft_otp](https://github.com/GitCGuillaume/Cybersecurity/tree/main/ft_otp)| Projet qui consiste à générer un mot de passe à usage unique |
 |[Cybersécurité - Stockholm](https://github.com/GitCGuillaume/Cybersecurity/tree/main/stockholm)| Projet éducatif malware pour infecter et désinfecter un dossier sous Linux |
 
-# Docker
-[Inception](https://github.com/GitCGuillaume/Inception) : Projet qui consiste à lancer différents services (Principalement pour un site WordPress) depuis des containers Docker.
+# Devops
+| Projet | Description |
+| :---------------- | :------: |
+|[Inception](https://github.com/GitCGuillaume/Inception)| Projet qui consiste à lancer différents services (Principalement pour un site WordPress) depuis des containers Docker. |
+|[Inception-of-Things (solo)](https://github.com/GitCGuillaume/Inception-of-Things) | Projet en construction... Déploiement devops sous Vagrant + Kubernetes (K3S, K3D) + essai GitHub Copilot. |
 
 # Web
 [ft_transcendence](https://github.com/GitCGuillaume/ft_transcendence) : Ce projet consiste à concevoir un site Pong en multijoueur, avec chat et double authentification sous QR Code,  
