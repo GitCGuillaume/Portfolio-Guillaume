@@ -7,9 +7,10 @@ Je suis Alumni à l'école 42 et également propriétaire d'un diplôme de Licen
 * [Branche Kernel](#Branche-kernel)
 * [C](#C)
 * [C++](#C++)
-* [Devops](#Devops)
-* [Web](#Web)
 * [Rust](#Rust)
+* [DevOps](#Devops)
+* [Web](#Web)
+
 
 # Branche Kernel
 | Projet | Description |
@@ -46,7 +47,7 @@ Je suis Alumni à l'école 42 et également propriétaire d'un diplôme de Licen
 |[Cybersécurité - ft_otp](https://github.com/GitCGuillaume/Cybersecurity/tree/main/ft_otp)| Projet qui consiste à générer un mot de passe à usage unique |
 |[Cybersécurité - Stockholm](https://github.com/GitCGuillaume/Cybersecurity/tree/main/stockholm)| Projet éducatif malware pour infecter et désinfecter un dossier sous Linux |
 
-# Devops
+# DevOps
 | Projet | Description |
 | :---------------- | :------: |
 |[Inception](https://github.com/GitCGuillaume/Inception)| Projet qui consiste à lancer différents services (Principalement pour un site WordPress) depuis des containers Docker. |
