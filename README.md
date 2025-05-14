@@ -1,5 +1,8 @@
 # Portfolio-Guillaume
 
+## Introduction
+Je suis Alumni à l'école 42 et également propriétaire d'un diplôme de Licence Professionnelle Système d'information et de communication sur internet et je suis à la recherche d'un emploi en tant que développeur.
+
 ## 📚 Sommaire
 * [Branche Kernel](#Branche-kernel)
 * [C](#C)
