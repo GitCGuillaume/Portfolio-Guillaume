@@ -51,7 +51,7 @@ Je suis Alumni à l'école 42 et également propriétaire d'un diplôme de Licen
 | Projet | Description |
 | :---------------- | :------: |
 |[Inception](https://github.com/GitCGuillaume/Inception)| Projet qui consiste à lancer différents services (Principalement pour un site WordPress) depuis des containers Docker. |
-|[Inception-of-Things (solo)](https://github.com/GitCGuillaume/Inception-of-Things) | Projet en construction... Déploiement devops sous Vagrant + Kubernetes (K3S, K3D) + essai GitHub Copilot. |
+|[Inception-of-Things](https://github.com/GitCGuillaume/Inception-of-Things) | Projet en construction... Déploiement devops sous Vagrant + Kubernetes (K3S, K3D, Argo CD). |
 
 # Web
 [ft_transcendence](https://github.com/GitCGuillaume/ft_transcendence) : Ce projet consiste à concevoir un site Pong en multijoueur, avec chat et double authentification sous QR Code,  
