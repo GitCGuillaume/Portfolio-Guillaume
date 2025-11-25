@@ -15,7 +15,7 @@ Je suis Alumni à l'école 42 et également propriétaire d'un diplôme de Licen
 # Branche Kernel
 | Projet | Description |
 | :---------------- | :------: |
-[ft_linux](https://github.com/GitCGuillaume/ft_linux) | Le but de ce projet est de construire une distribution Linux avec son lot de programmes, basé sur les livres Linux From Scratch et Beyond Linux From Scratch. |
+[ft_linux](https://github.com/GitCGuillaume/ft_linux) | Le but de ce projet est de construire une distribution Linux avec son lot de programmes, basé sur les livres Linux From Scratch et Beyond Linux From Scratch. Distribution Linux, installation modules drivers, configuration réseau, DNS, partitions, bootloader et environnement de bureau graphique.|
 [Little Penguin](https://github.com/GitCGuillaume/Little_Penguin/tree/main) | Ce sujet est un challenge comportant une série d'exercice pour s'initier à la programmation kernel Linux. |
 
 # C
